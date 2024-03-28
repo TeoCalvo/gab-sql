@@ -1,0 +1,3 @@
+-- Databricks notebook source
+-- DBTITLE 1,Exercício 01
+-- Selecione todos os clientes paulistanos
